@@ -8,4 +8,4 @@ rake
 # Development
 - add exercise file to `exercises`
 - add spec file to `spec/exercises`
-- run spec `rake`
+- run specs `rake`
